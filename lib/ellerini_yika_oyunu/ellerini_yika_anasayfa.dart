@@ -925,7 +925,10 @@ class _EllerPageState extends State<EllerPage> {
                 minWidth: 100,
                 color: Colors.pinkAccent,
                 child: new Text("Evet"),
-                onPressed: () {
+                onPressed: () async {
+
+                  await advancedPlayer.stop();
+
                   setState(() {
                     varMi = false;
                     suVarMi = false;

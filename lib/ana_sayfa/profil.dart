@@ -192,11 +192,7 @@ class Profil extends StatelessWidget {
                                   value: kullaniciCinsiyet,
                                   child: new Text(value),
 
-                                  onTap: () {
-                                    print(value);
-                                    kullaniciCinsiyet = value;
-                                   // kullaniciCinsiyet = value;
-                                  },
+
 
 
 
