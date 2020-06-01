@@ -191,7 +191,7 @@ class EvdeKalUIState extends State<EvdeKalUI> with WidgetsBindingObserver {
                                     activeColor: turuncu),
                                 Expanded(
                                     child: Text(
-                                      "Bu sadece bir oyun. Önemli olan öksürdüğünde ağzını ve burnunu bir mendille veya mendil yoksa dirseğinle kapatman. Bunu gerçekten uyguluyorsan işaretle.",
+                                      "Bu sadece bir oyun. Önemli olan dışarı çıktığında sosyal mesafeye uyarak hareket etmendir. Bunu gerçekten uyguluyorsan işaretle.",
                                       textScaleFactor: 1,
                                       style: TextStyle(
                                         fontFamily: "ssLight",

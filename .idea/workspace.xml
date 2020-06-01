@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="adf69e64-ad5e-40ee-bd94-f2900fa28274" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.flutter-plugins" beforeDir="false" afterPath="$PROJECT_DIR$/.flutter-plugins" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/.flutter-plugins-dependencies" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/girl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/vatandas.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/ana_sayfa/profil.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/ana_sayfa/profil.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/evdekal_oyunu/evdekal_ui.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/evdekal_oyunu/evdekal_ui.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/evdekal_oyunu/models/player.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/evdekal_oyunu/models/player.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/evdekal_oyunu/models/start_text.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/evdekal_oyunu/models/start_text.dart" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,14 +53,16 @@
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\MONSTER\Desktop\corona games\oksuruguduzenlediktensonra\corona_oyun-master\corona_oyun\assets\images" />
-      <recent name="C:\Users\MONSTER\Desktop\corona games\oksuruguduzenlediktensonra\corona_oyun-master\corona_oyun\assets\images\bg" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Kadriye\Desktop\T_Mann\assets\images" />
+      <recent name="C:\Users\Kadriye\Desktop\T_Mann\assets\images\bg" />
       <recent name="C:\Users\MONSTER\Desktop\corona games\oksuruguduzenlediktensonra\corona_oyun-master\corona_oyun\ios\Runner\Assets.xcassets\AppIcon.appiconset" />
       <recent name="C:\Users\MONSTER\Desktop\corona games\oksuruguduzenlediktensonra\corona_oyun-master\corona_oyun\android\app\src\main\res" />
       <recent name="C:\Users\MONSTER\Desktop\corona games\oksuruguduzenlediktensonra\corona_oyun-master\corona_oyun\assets\images" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\MONSTER\Desktop\corona games\oksuruguduzenlediktensonra\corona_oyun-master\corona_oyun\assets\images" />
+      <recent name="C:\Users\MONSTER\Desktop\corona games\oksuruguduzenlediktensonra\corona_oyun-master\corona_oyun\assets\images\bg" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -94,6 +94,14 @@
       <option name="presentableId" value="Default" />
       <updated>1588537519206</updated>
     </task>
+    <task id="LOCAL-00001" summary="müzik kapanıyor anasayfaya geçerken de">
+      <created>1591039683487</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1591039683487</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -106,5 +114,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="müzik kapanıyor anasayfaya geçerken de" />
+    <option name="LAST_COMMIT_MESSAGE" value="müzik kapanıyor anasayfaya geçerken de" />
   </component>
 </project>

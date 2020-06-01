@@ -28,7 +28,7 @@ class Player {
       size,
     );
 
-    polis = Sprite("poliscik.png");
+    polis = Sprite("girl.png");
 
   }
 

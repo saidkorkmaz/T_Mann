@@ -23,15 +23,16 @@ class StartText {
 
   void update(double t) {
     painter.text = TextSpan(
-      text: 'Sağlığımız için evde kalmalıyız! \n'
-      '\n Polis olarak, sen de '
-          '\n dışarı çıkan insanları uyararak'
-          '\n yardımcı olabilirsin. \n '
-          '\n Ne kadar temas olursa'
+      text: 'Sağlığımız için  \n'
+          'sosyal mesafeye uymalıyız! \n'
+      '\n Duyarlı bir vatandaş olarak, sen de '
+          '\n dışarı çıkan insanlara 3 kere tıklayarak'
+          '\n onları uyarabilirsin. \n '
+          '\n Sosyal mesafeye ne kadar uymazsak'
           '\n o kadar canın azalır!',
       style: TextStyle(
         fontWeight: FontWeight.bold,
-        color: Colors.greenAccent[200],
+        color: Colors.greenAccent,
         fontSize: 20.0,
       ),
     );
