@@ -1,0 +1,4 @@
+enum Stater {
+  menu,
+  playing,
+}
